@@ -8,4 +8,5 @@ number of loans, average rental income, monthly mortgage and owner’s cost, fam
 The metrics described here do not limit the dashboard to these few.
 
 Dashboard Link:
+
 https://public.tableau.com/views/RealEstateProject-1_16255218497970/RealEstateDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
